@@ -1,8 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-      <!-- ======================================= 5.11 TacTec =======================================-->
-  
+  <!-- ======================================= 5.11 TacTec =======================================-->
   <ThingDef ParentName="ApparelBase">
     <defName>dRME_LeatherArmour</defName>
     <label>Leather Breastplate</label>
@@ -21,7 +19,7 @@
       <drawSize>0.90</drawSize>
     </graphicData>
     <statBases>
-       <WorkToMake>5000</WorkToMake>
+      <WorkToMake>5000</WorkToMake>
       <MaxHitPoints>210</MaxHitPoints>
       <Mass>15</Mass>
       <StuffEffectMultiplierArmor>0.73</StuffEffectMultiplierArmor>
@@ -35,13 +33,13 @@
     <thingCategories>
       <li>Apparel</li>
     </thingCategories>
-      <stuffCategories>
+    <stuffCategories>
       <li>Metallic</li>
       <li>Woody</li>
     </stuffCategories>
     <costStuffCount>170</costStuffCount>
     <apparel>
-	<careIfWornByCorpse>false</careIfWornByCorpse>
+      <careIfWornByCorpse>false</careIfWornByCorpse>
       <bodyPartGroups>
         <li>Torso</li>
         <li>Neck</li>
@@ -60,5 +58,4 @@
       </defaultOutfitTags>
     </apparel>
   </ThingDef>
-
 </Defs>
