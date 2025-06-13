@@ -1,4 +1,4 @@
-# MEPictArmor
+# [Medieval Edition - Pict Armor (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2022520108)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -6,10 +6,8 @@ Update of Nomadics mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1595611816
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
-
 
 I will be updating both of my mods for 1.1 next weekend (3/21/2020) since I'll have a bit of free time. I should have focused on my own mods, but I was tinkering with some other mods to see about updating them to 1.1 as well (XND Rename Everything, for example, with his permission). Expect an official update to my armor revival series. Until then, a link is below to Mlie's update in my stead.
 
@@ -48,13 +46,12 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2022520108 - 1.1 update a
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2022520108]![Image](https://img.shields.io/github/v/release/emipa606/MEPictArmor?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/MEPictArmor?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2022520108)
