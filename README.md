@@ -54,4 +54,4 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2022520108 - 1.1 update a
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/MEPictArmor?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2022520108)
+[![Image](https://img.shields.io/github/v/release/emipa606/MEPictArmor?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2022520108) | tags:  armor revival

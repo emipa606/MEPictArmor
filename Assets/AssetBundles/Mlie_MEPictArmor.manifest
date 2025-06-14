@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1141635443
+CRC: 1398590251
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 43f36bf96160ec9b0321a055b324404d
+    Hash: 8782979bd3358ae0593e00848a533897
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2612ac43db082a73502ee80f2eceb73f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 43f36bf96160ec9b0321a055b324404d
+    Hash: 8782979bd3358ae0593e00848a533897
 HashAppended: 0
 ClassTypes:
 - Class: 28
@@ -17,19 +17,19 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Male_east.png
-- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Fat_south.png
-- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Hulk_south.png
-- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Female_south.png
 - Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Thin_east.png
-- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Thin_north.png
+- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Fat_south.png
 - Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Male_south.png
+- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Male_north.png
+- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Thin_south.png
+- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Hulk_south.png
+- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Fat_north.png
+- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Female_south.png
+- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Display/Pictish.png
+- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Thin_north.png
+- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Hulk_east.png
+- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Hulk_north.png
+- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Female_north.png
 - Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Fat_east.png
 - Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Female_east.png
-- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Hulk_north.png
-- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Thin_south.png
-- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Fat_north.png
-- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Male_north.png
-- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Hulk_east.png
-- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Armor/Pictish_Female_north.png
-- Assets/Data/Mlie.MEPictArmor/Textures/Things/Apparel/Display/Pictish.png
 Dependencies: []
